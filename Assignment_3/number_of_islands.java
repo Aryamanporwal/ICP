@@ -20,7 +20,7 @@ public class number_of_islands {
         }
 
         public void dfs(int row , int col , char[][] grid , boolean [][] visited){
-            if(row < 0 || row>=rows || col<0 || col>= cols ||visited[row][col]){
+            if(row < 0 || row>=rows || col<0 || col>= cols ||grid[row][col]=='0' || visited[row][col]){
                 return;
             }
 
