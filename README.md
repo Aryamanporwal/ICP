@@ -9,3 +9,6 @@
 ## Folders named as Practice_Day1 , Practice_Day2... contains all the questions which are taught during training , everyday assignemnt given in Batch-1 and questions solved for practice
 
 [Practice Day1](https://github.com/Aryamanporwal/ICP/Practice_Day1)
+#
+[Ques1: Best time to Buy and Sell Stock](Day1_Practice/best_time_to_buy_sell_stock.java)
+[Ques2: ]()
