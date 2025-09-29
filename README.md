@@ -10,6 +10,7 @@
 
 ## Folders named as Practice_Day1 , Practice_Day2... contains all the questions which are taught during training , everyday assignemnt given in Batch-1 and questions solved for practice
 
+# Array (1-D): Single Pass, Two Pass, Two Pointers, Binary Search
 [Practice Day1](https://github.com/Aryamanporwal/ICP/Day1_Practice)
 #
 [Ques1: Best time to Buy and Sell Stock](Day1_Practice/best_time_to_buy_sell_stock.java) 
@@ -29,6 +30,8 @@
 [Ques8: Three Sum](Day1_Practice/three_sum.java)  
 
 #
+# Searching & Sorting (Binary Search Variants, QuickSort, MergeSort, 
+Applications)
 [Practice_Day2](Day2_practice)
 ##
 [Ques1: Fibonacci Formula](Day2_Practice/fibo_formula.java)
@@ -50,6 +53,7 @@
 [Ques9: Upper or Lower Bound](Day2_Practice/upperOrlowerBound.java)
 
 #
+# Array (2-D): Matrix Manipulation, Maze Solver
 [Practice_Day3](Day3_Practice)
 ##
 [Ques1: Convert 1D to 2D Array](Day3_Practice/convert_1D_to_2D_array.java)
@@ -86,6 +90,6 @@
 
 [Ques17: Spiral Matrix](Day3_Practice/spiral_matrix.java)
 
-[Ques18: Trasnpose Matrix](Day3_Practice/transpose_matrix.java)
+[Ques18: Transpose Matrix](Day3_Practice/transpose_matrix.java)
 
 
