@@ -30,8 +30,7 @@
 [Ques8: Three Sum](Day1_Practice/three_sum.java)  
 
 #
-# Searching & Sorting (Binary Search Variants, QuickSort, MergeSort, 
-Applications) 
+# Searching & Sorting (Binary Search Variants, QuickSort, MergeSort, Applications) 
 ### [Practice_Day2](Day2_practice)
 ##
 [Ques1: Fibonacci Formula](Day2_Practice/fibo_formula.java)
