@@ -49,6 +49,43 @@
 
 [Ques9: Upper or Lower Bound](Day2_Practice/upperOrlowerBound.java)
 
+#
+[Practice_Day3](Day3_Practice)
+##
+[Ques1: Convert 1D to 2D Array](Day3_Practice/convert_1D_to_2D_array.java)
 
+[Ques2: Flipping an Image](Day3_Practice/flipping_an_image.java)
+
+[Ques3: Largest Area Rectangle](Day3_Practice/largest_area_rectangle.java)
+
+[Ques4: Lucky Number](Day3_Practice/lucky_number.java)
+
+[Ques5: Matrix](Day3_Practice/matrix.java)
+
+[Ques6: Matrix Similarity After Cyclic Shifts](Day3_Practice/matrix_similarity_after_cyclic_shifts.java)
+
+[Ques7: Maximal Rectangle](Day3_Practice/maximal_rectangle.java)
+
+[Ques8: Merge Two 2D Array Summation](Day3_Practice/merge_two_2D_array_summation.java)
+
+[Ques9: Modify the Matrix](Day3_Practice/modify_the_matrix.java)
+
+[Ques10: Queens That Can Attack the King](Day3_Practice/queens_that_can_attack_king.java)
+
+[Ques11: Richest Common Wealth](Day3_Practice/richest_common_wealth.java)
+
+[Ques12: Rotate Image](Day3_Practice/rotate_image.java)
+
+[Ques13: Rotating the Box](Day3_Practice/rotating_the_box.java)
+
+[Ques14: Search 2D Matrix](Day3_Practice/search_2D_matrix.java)
+
+[Ques15: Set Matrix Zero](Day3_Practice/set_matrix_zero.java)
+
+[Ques16: Shift 2D](Day3_Practice/shift_twod.java)
+
+[Ques17: Spiral Matrix](Day3_Practice/spiral_matrix.java)
+
+[Ques18: Trasnpose Matrix](Day3_Practice/transpose_matrix.java)
 
 
