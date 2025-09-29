@@ -8,7 +8,7 @@
 
 [Assignment - Day3](Assignment_3) 
 
-## Folders named as Practice_Day1 , Practice_Day2... contains all the questions which are taught during training , everyday assignemnt given in Batch-1 and questions solved for practice
+## Folders named as Day1_Practice , Day2_Practice... contains all the questions which are taught during training , everyday assignemnt given in Batch-1 and questions solved for practice
 
 # Array (1-D): Single Pass, Two Pass, Two Pointers, Binary Search
 [Practice Day1](https://github.com/Aryamanporwal/ICP/Day1_Practice)
