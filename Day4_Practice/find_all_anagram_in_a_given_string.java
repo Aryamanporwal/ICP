@@ -1,9 +1,8 @@
-package Day4_Practice;
 import java.util.*;
 public class find_all_anagram_in_a_given_string {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        
+        sc.close();
     }
     //Brute code----------->
     public static List<Integer> findAnagram(String s, String p) {
