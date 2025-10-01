@@ -10,6 +10,8 @@
 
 [Assignment - Day4](Assignment_4)
 
+[Assignment - Day5](Assignment_5)
+
 ## Folders named as Day1_Practice , Day2_Practice... contains all the questions which are taught during training , everyday assignemnt given in Batch-1 and questions solved for practice
 
 # Array (1-D): Single Pass, Two Pass, Two Pointers, Binary Search 
@@ -98,4 +100,32 @@
 ### [Practice_Day4](Day4_Practice)
 ##
 [Ques1: Find All The Anagrams in a given String](Day4_Practice/find_all_anagram_in_a_given_string.java)
+
+[Ques2: All Anagrams](Day4_Practice/all_anagram.java)
+
+[Ques3: Max Consecutive Ones](Day4_Practice/max_consecutive_ones.java)
+
+#
+# Greedy Algorithm
+### [Practice_Day5](Day5_Practice)
+##
+[Ques1: Bursting Balloons](Day5_Practice/burts_balloons.java)
+
+[Ques2: Candy](Day5_Practice/candy.java)
+
+[Ques3: Coin Change](Day5_Practice/coin_change.java)
+
+[Ques4: Fractional Knapsack](Day5_Practice/fraction_knapsack.java)
+
+[Ques5: Jump Game I](Day5_Practice/jump_game_I.java)
+
+[Ques6: Jump Game II](Day5_Practice/jump_game_ii.java)
+
+[Ques7: Maximum Units on Truck](Day5_Practice/maximum_units_on_truck.java)
+
+[Ques8: Minimum Platform Needed](Day5_Practice/minimum_platform_needed.java)
+
+[Ques9: Overlap Intervals](Day5_Practice/overlap_intervals.java)
+
+[Ques10: Two Chocolates](Day5_Practice/two_chocolates.java)
 
