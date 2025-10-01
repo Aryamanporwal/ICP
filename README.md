@@ -129,3 +129,6 @@
 
 [Ques10: Two Chocolates](Day5_Practice/two_chocolates.java)
 
+[Ques11: Lemonade Change](Day5_Practice/lemonade_change.java)
+
+[Ques12: Integer Replacement](Day5_Practice/integer_replacement.java)
