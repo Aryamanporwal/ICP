@@ -105,6 +105,10 @@
 
 [Ques3: Max Consecutive Ones](Day4_Practice/max_consecutive_ones.java)
 
+[Ques4: Maximum sum sliding window](Day4_Practice/maximum_sum_subarray.java)
+
+[Ques5: Count Distinct character in window](Day4_Practice/count_distinct_number_in_window.java)
+
 #
 # Greedy Algorithm
 ### [Practice_Day5](Day5_Practice)
@@ -137,3 +141,6 @@
 
 [Ques14: Activity Selection](Day5_Practice/activity_selection.java)
 
+[Ques15: Job Sequencing](Day5_Practice/job_sequencing_problem.java)
+
+[Ques16: Gas Station](Day5_Practice/gasStation.java)
