@@ -1,4 +1,4 @@
-# This Repository is for Infinity Champions Programme ♾️ Assignment + Daily Practice.
+# Infinity Champions Programme ♾️ Assignment + Daily Practice.
 
 ## Folders named as Assignment_1 , Assignment_2... corresponds to the Assignment of Day 1 or 2 and so on.
 
