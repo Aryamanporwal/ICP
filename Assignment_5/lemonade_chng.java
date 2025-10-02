@@ -1,4 +1,3 @@
-package Assignment_5;
 
 public class lemonade_chng {
     class Solution {
