@@ -12,6 +12,8 @@
 
 [Assignment - Day5](Assignment_5)
 
+[Assignment - Day6](Assignment_6)
+
 ## Folders named as Day1_Practice , Day2_Practice... contains all the questions which are taught during training , everyday assignemnt given in Batch-1 and questions solved for practice
 
 # Array (1-D): Single Pass, Two Pass, Two Pointers, Binary Search 
@@ -145,4 +147,22 @@
 
 [Ques16: Gas Station](Day5_Practice/gasStation.java)
 
-[Ques17: Minimum Window Substring](Day5_Practice/minimum%20sliding%20substring.java)
+[Ques17: Minimum Window Substring](Day5_Practice/minimum_sliding_substring.java)
+
+#
+# Recursion and Backtracking
+### [Practice_Day6](Day6_Practice)
+##
+[Ques1: Array Sum](Day6_Practice/array_sum.java)
+
+[Ques2: Fibonacci Number](Day6_Practice/fibonacci_number.java)
+
+[Ques3: Palindrome String](Day6_Practice/palindrome_string.java)
+
+[Ques4: Power of Two](Day6_Practice/power_of_two.java)
+
+[Ques5: Remove Character](Day6_Practice/remove_character.java)
+
+[Ques6: Reverse Array](Day6_Practice/reverse_array.java)
+
+[Ques7: Reverse String](Day6_Practice/reverse_string.java)
