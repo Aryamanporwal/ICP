@@ -166,3 +166,5 @@
 [Ques6: Reverse Array](Day6_Practice/reverse_array.java)
 
 [Ques7: Reverse String](Day6_Practice/reverse_string.java)
+
+[Ques8: Subsets](Day6_Practice/subsets.java)
