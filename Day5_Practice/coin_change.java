@@ -1,4 +1,3 @@
-package Day5_Practice;
 
 public class coin_change {
     class Solution {

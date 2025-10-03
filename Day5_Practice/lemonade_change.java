@@ -1,4 +1,3 @@
-package Day5_Practice;
 
 public class lemonade_change {
     class Solution {

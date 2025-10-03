@@ -1,4 +1,4 @@
-package Day5_Practice;
+
 import java.util.*;
 public class maximum_units_on_truck {
     class Solution {

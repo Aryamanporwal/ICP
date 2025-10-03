@@ -1,4 +1,3 @@
-package Day5_Practice;
 
 public class jump_game_ii {
     class Solution {

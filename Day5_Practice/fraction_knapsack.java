@@ -1,4 +1,4 @@
-package Day5_Practice;
+
 import java.util.*;
 public class fraction_knapsack {
     class Solution {

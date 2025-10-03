@@ -1,4 +1,4 @@
-package Day5_Practice;
+
 
 public class integer_replacement {
     class Solution {

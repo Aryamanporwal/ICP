@@ -1,4 +1,3 @@
-package Day5_Practice;
 
 import java.util.Arrays;
 

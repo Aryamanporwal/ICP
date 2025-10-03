@@ -1,4 +1,4 @@
-package Day5_Practice;
+
 public class jump_game_I {
     class Solution {
         public boolean canJump(int[] nums) {
