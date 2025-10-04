@@ -150,7 +150,7 @@
 [Ques17: Minimum Window Substring](Day5_Practice/minimum_sliding_substring.java)
 
 #
-# Recursion and Backtracking
+# Recursion
 ### [Practice_Day6](Day6_Practice)
 ##
 [Ques1: Array Sum](Day6_Practice/array_sum.java)
@@ -168,3 +168,16 @@
 [Ques7: Reverse String](Day6_Practice/reverse_string.java)
 
 [Ques8: Subsets](Day6_Practice/subsets.java)
+
+[Ques9: Permutations](Day6_Practice/permutations.java)
+
+#
+# Backtracking
+### [Practice_Day7](Day7_Practice)
+##
+[Ques1: Subsets](Day7_Practice/subsets_cw.java)
+
+[Ques2: Palindrome Partitioning](Day7_Practice/palindrome_partitioning.java)
+
+[Ques3: Permutations](Day7_Practice/permutations.java)
+
