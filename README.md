@@ -181,3 +181,8 @@
 
 [Ques3: Permutations](Day7_Practice/permutations.java)
 
+[Ques4: N-Queens](Day7_Practice/nqueens.java)
+
+[Ques5: N-Queens-ii](Day7_Practice/nqueens_ii.java)
+
+
