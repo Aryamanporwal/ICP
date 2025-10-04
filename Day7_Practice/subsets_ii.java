@@ -1,18 +1,22 @@
 package Day7_Practice;
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.*;
-public class subsets_cw{
+public class subsets_ii {
     class Solution {
-        List<List<Integer>> res = new ArrayList<>();
-        public List<List<Integer>> subsets(int[] nums) {
+        HashSet<List<Integer>> set = new HashSet<>();
+        public List<List<Integer>> subsetsWithDup(int[] nums) {
+            Arrays.sort(nums);
             List<Integer> temp = new ArrayList<>();
             recur(nums, 0 , temp);
-            return res;
+            return new ArrayList<>(set);
         }
         public void recur(int []nums , int idx , List<Integer> temp ){
-            res.add(new ArrayList<>(temp));
+            set.add(new ArrayList<>(temp));
 
             for(int i = idx ; i<nums.length ; i++){
+                if(i == idx && nums[i] == nums[i-1]) continue;
                 temp.add(nums[i]);
                 recur(nums , i+1 , temp);
                 temp.remove(temp.size()-1);
