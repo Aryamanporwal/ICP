@@ -14,6 +14,8 @@
 
 [Assignment - Day6](Assignment_6)
 
+[Assignment - Day7](Assignment_7)
+
 ## Folders named as Day1_Practice , Day2_Practice... contains all the questions which are taught during training , everyday assignemnt given in Batch-1 and questions solved for practice
 
 # Array (1-D): Single Pass, Two Pass, Two Pointers, Binary Search 
