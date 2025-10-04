@@ -185,4 +185,7 @@
 
 [Ques5: N-Queens-ii](Day7_Practice/nqueens_ii.java)
 
+[Ques6: Valid Sudoko](Day7_Practice/valid_sudoko.java)
+
+[Ques7: Sudoko Solver](Day7_Practice/sudoko_solver.java)
 
