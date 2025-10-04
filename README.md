@@ -173,6 +173,8 @@
 
 [Ques9: Permutations](Day6_Practice/permutations.java)
 
+[Ques10: Letter case Permutation](Day6_Practice/letter_case_permutation.java)
+
 #
 # Backtracking
 ### [Practice_Day7](Day7_Practice)
