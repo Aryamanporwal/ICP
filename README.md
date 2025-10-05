@@ -196,3 +196,9 @@
 [Ques8: Subsets II](Day7_Practice/subsets_ii.java)
 
 [Ques9: Word Search](Day7_Practice/word_search.java)
+
+[Ques10: Rat in Maze](Day7_Practice/rat_in_maze.java)
+
+[Ques11: Combination Sum](Day7_Practice/combination_sum.java)
+
+[Ques12: Combination Sum 2](Day7_Practice/combination_sum_ii.java)
