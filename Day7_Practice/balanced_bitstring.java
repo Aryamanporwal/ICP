@@ -17,7 +17,7 @@ public class balanced_bitstring{
         sc.close();
     }
     public static void solve(int n , int k , char[]s){        
-    for(int i = 0; i<k ; i++){
+        for(int i = 0; i<k ; i++){
                 if(s[i]=='?'){
                     for(int j = i+k ; j<n ; j+= k){
                         if(s[j] !='?'){
