@@ -1,3 +1,4 @@
+import java.util.*;
 public class min_stack {
     class Pair{
         int val;
