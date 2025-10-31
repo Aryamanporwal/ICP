@@ -73,6 +73,21 @@ public class linked_list_implementation {
             }
         }
 
+        public Node getAt(int idx){
+            Node temp = head;
+            while(idx-->1){
+                temp = temp.next;
+                idx--;
+            }
+            return temp;
+
+        }
+
+        public void removeAt(int idx){
+            Node temp = getAt(idx);
+            
+        }
+
         public static void main(String[] args) {
             linkedlist ll = new linkedlist();
             ll.insertAtEnd(0);
