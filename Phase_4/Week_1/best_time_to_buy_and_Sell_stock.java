@@ -31,6 +31,7 @@ public class best_time_to_buy_and_Sell_stock {
                 prices[i] = sc.nextInt();
             }
 
+            sc.close();
 
 
     }
