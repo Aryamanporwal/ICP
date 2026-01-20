@@ -12,9 +12,9 @@ public class find_the_first_occurence {
         int n= haystack.length();
         int m = needle.length();
         if(m>n) return -1;
-        for(int i= 0 ; i<n-m ; i++){
+        for(int i= 0 ; i<n-m ; i++){ //simpling iterating from 0 to n-m length that is heystack - needle length
             int len = i+n;
-            if(haystack.substring(i, len).equals(needle)){
+            if(haystack.substring(i, len).equals(needle)){ //checking if it is possible than return i
                 return i;
             }
         }

@@ -37,16 +37,16 @@ public class best_time_to_buy_and_Sell_stock {
     }
 
     public int solve(int [] prices){
-        int n = prices.length;
-        int minPrice = prices[0];
-        int maxProfit = 0;
+        int n = prices.length; //length of price
+        int minPrice = prices[0]; //lets consider that minPrice for purchase is 0th idx element
+        int maxProfit = 0; //profit obtained initially is 0 , because we have purchased a stock of min value not sold it
 
         for(int i = 1 ; i<n ; i++){
-            if(prices[i] < minPrice){
-                minPrice = prices[i];
+            if(prices[i] < minPrice){ //if the current price is less than minPrice
+                minPrice = prices[i]; //then we will consider that the minPrice to purchase stock is this day
             }
-            else if(prices[i] - minPrice > maxProfit){
-                maxProfit = prices[i]-minPrice;
+            else if(prices[i] - minPrice > maxProfit){ //if the price more than minPrice than we will find profit by subtracting them and checking if it is more than maxProfit
+                maxProfit = prices[i]-minPrice;//update maxProfit
             }
         }
         return maxProfit;

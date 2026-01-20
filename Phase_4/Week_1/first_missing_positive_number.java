@@ -9,9 +9,9 @@ public class first_missing_positive_number {
             nums[i] = sc.nextInt();
         }
 
-        //har ek element ko uske index k barbar rakhenge
-        for(int i = 0; i<n ; i++){
-            while(nums[i] >= 1 && nums[i] <= n && nums[nums[i]-1] != nums[i]){
+        //har ek element ko uske index k barbar rakhenge 
+        for(int i = 0; i<n ; i++){ //we will iterate over the nums 
+            while(nums[i] >= 1 && nums[i] <= n && nums[nums[i]-1] != nums[i]){ //condition to swapp the numbers based on their index considering the element should be greater than 1
                 int idx = nums[i]-1;
                 int temp = nums[i];
                 nums[i] = nums[idx];
@@ -19,6 +19,7 @@ public class first_missing_positive_number {
             }
         }
 
+        //iterate and check which are not equal to their index , and print those numbers
         for(int i =0; i<n ; i++){
             if(nums[i] != i+1){
                System.out.println(i+1);
