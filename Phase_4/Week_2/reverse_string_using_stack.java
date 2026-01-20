@@ -5,6 +5,7 @@ public class reverse_string_using_stack{
         Scanner sc = new Scanner(System.in);
         String s = sc.next();
         System.out.println(reverse(s));
+        sc.close();
     }
     public static String reverse(String S) {
         // code here

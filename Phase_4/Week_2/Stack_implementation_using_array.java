@@ -1,5 +1,4 @@
 package Phase_4.Week_2;
-import java.util.*;
 public class Stack_implementation_using_array {
     public static void main(String[] args) {
         Stack st = new Stack(4);
@@ -9,6 +8,7 @@ public class Stack_implementation_using_array {
         st.pop();
         st.push(4);
         st.peek();
+
 
     }
 

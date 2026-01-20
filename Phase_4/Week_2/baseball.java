@@ -13,7 +13,6 @@ public class baseball {
         sc.close();
     }
        public static int calPoints(String[] operations) {
-        int n = operations.length;
         Stack<String> st = new Stack<>();
         for(String s : operations){
             if(s.matches("-?\\d+")){
