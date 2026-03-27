@@ -55,7 +55,7 @@ public class range_update_query {
         int mid = (l+r)/2;
 
         updateQuery(start, end, mid, l, val, 2*i+1, lazy);
-        updateQuery(start, end, r, mid+1, val, 2*i+2, lazy);
+        updateQuery(start, end, mid+1,r, val, 2*i+2, lazy);
 
         st[i] = st[2*i+1]+st[2*i+2];
     }
